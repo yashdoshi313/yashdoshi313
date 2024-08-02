@@ -1,6 +1,6 @@
 ## Hello, I'm Yash Doshi 👋
 
-Welcome to my GitHub portfolio! I'm a passionate Data Analyst with a strong background in data analysis and data visualization. With a Graduate Certificate from [Humber College, Toronto,CA], I have honed my skills in developing and deploying data-driven solutions to solve complex problems.
+Welcome to my GitHub portfolio! I'm a passionate Data Analyst with a strong background in data analysis and data visualization. With a Graduate Certificate from Humber College, Canada; I have honed my skills in developing and deploying data-driven solutions to solve complex problems.
 
 ## 🔭 What I'm Working On
 - **Machine Learning Projects**: Exploring new models and algorithms to push the boundaries of what's possible.
