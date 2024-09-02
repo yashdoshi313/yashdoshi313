@@ -18,11 +18,6 @@ Welcome to my GitHub portfolio! I'm a passionate Data Analyst with a strong back
 ## 📫 How to Reach Me
 Feel free to reach out to me via [yashdoshi313@gmail.com](mailto:yashdoshi313@gmail.com) for collaborations, discussions, or just to say hi!
 
-## 🏆 Achievements
-- Published research on [Topic] in [Journal].
-- Speaker at [Conference/Event].
-- [Other notable achievements].
-
 ## 💡 Interests
 - Data Science
 - Machine Learning
